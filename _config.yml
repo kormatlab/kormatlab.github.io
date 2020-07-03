@@ -14,7 +14,7 @@ url: "https://kormatlab.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: # None
+baseurl: "" # None
 
 # Google tracking id
 
