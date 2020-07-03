@@ -4,8 +4,8 @@
 title: Mobbing
 author: Fiora Pellerin
 
-# url: "https://kormatlab.github.io"
-# baseurl: "" # None
+url: "https://kormatlab.github.io"
+baseurl: "" # None
 
-domain: "https://kormatlab.github.io"
-base: "" # None
+# domain: "https://kormatlab.github.io"
+# base: "" # None
