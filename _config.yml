@@ -1,10 +1,11 @@
 
 # Site settings
 
-remote_theme : le4ker/personal-jekyll-theme
+title: Mobbing
+author: Fiora Pellerin
 
 # url: "https://kormatlab.github.io"
-#baseurl: "" # None
+# baseurl: "" # None
 
 domain: "https://kormatlab.github.io"
 base: "" # None
